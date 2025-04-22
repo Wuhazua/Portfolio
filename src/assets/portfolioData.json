@@ -1,1 +1,7 @@
-
+{
+  "projects": [
+    { "title": "Project Alpha", "description": "Advanced React component design" },
+    { "title": "Project Beta", "description": "API integration with Node.js" },
+    { "title": "Project Gamma", "description": "Deep dive into front-end frameworks" }
+  ]
+}
