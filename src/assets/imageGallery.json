@@ -1,1 +1,6 @@
-
+{
+  "gallery": [
+    { "imageURL": "/images/project1.jpg", "title": "Portfolio Image 1" },
+    { "imageURL": "/images/project2.jpg", "title": "Portfolio Image 2" }
+  ]
+}
