@@ -7,4 +7,4 @@ Welcome to my portfolio! This repo showcases some of my building skills (not goo
 - Portfolio gallery using React Suspense
 - Dynamic theme support
 
-Feel free to explore the code and check out the portfoli
+Feel free to explore the code and check out the portfolio
